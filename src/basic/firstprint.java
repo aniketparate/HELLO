@@ -1,4 +1,4 @@
-package basicIO;
+package basic;
 
 public class firstprint {
     public static void main(String[] args) {
