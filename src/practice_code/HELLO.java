@@ -1,4 +1,4 @@
-package firstcode;
+package practice_code;
 
 public class HELLO {
     public static void main(String[] args) {
