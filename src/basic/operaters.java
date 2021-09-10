@@ -16,5 +16,20 @@ public class operaters {
         System.out.println(mul);
         System.out.println(div);
         System.out.println(modulo); //prints remainder
+
+        //unary operator
+        int numb = 1;
+
+        //System.out.println(numb++); //1
+        //System.out.println(numb); //2
+
+        //System.out.println(++numb); //2
+        //System.out.println(numb); //2
+
+        //System.out.println(--numb); //0
+        //System.out.println(numb); //0
+
+        //System.out.println(numb--); //1
+        //System.out.println(numb); //0
     }
 }
