@@ -6,7 +6,7 @@ Suppose, you need to assign a value of one type to a variable of another type. T
 
 ## Implicit casting
 The compiler automatically performs **implicit casting** when the target type is wider than the source type. The picture below illustrates the direction of this casting. Any value of a given type can be assigned to the one on the right implicitly.
-<img src="G:\Java Programming\JavaBasics\src\basic\image.png"/>
+<img src="https://raw.githubusercontent.com/aniketparate/javabasics/master/src/basic/image.png"/>
 
 **The direction of implicit primitive type castings**
 
